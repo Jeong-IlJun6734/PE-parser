@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\user\Desktop\25_여름방학\스터디\ConsoleApplication1\ConsoleApplication1.cpp(93,1): warning C4715: 'subsystem': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\user\Desktop\25_여름방학\스터디\ConsoleApplication1\ConsoleApplication1.cpp(59,1): warning C4172: 지역 변수 또는 임시 : mean의 주소를 반환하는 중
+C:\Users\user\Desktop\25_여름방학\스터디\ConsoleApplication1\ConsoleApplication1.cpp(152,1): warning C4172: 지역 변수 또는 임시 : mean의 주소를 반환하는 중
+  ConsoleApplication1.vcxproj -> C:\Users\user\Desktop\25_여름방학\스터디\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
